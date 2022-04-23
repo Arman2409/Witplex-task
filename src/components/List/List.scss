@@ -1,0 +1,71 @@
+.row-odd{
+    background-color: rgb(236, 233, 233);
+}
+
+.row-couple{
+    background-color: white;
+}
+
+.MuiDataGrid-row:hover{
+    background-color: rgb(153, 160, 153) !important;
+}
+
+.delete-icon{
+    font-size: 20px;
+    color:rgb(46, 46, 46);
+}
+
+.edit-icon{
+    font-size: 20px;
+    color:#1E989B;
+
+}
+
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle{
+    color:#1E989B;
+}
+
+.MuiDataGrid-columnHeaderDraggableContainer{
+   display: flex !important;
+   justify-content: center !important;
+   background-color: white !important;
+   padding: 20% !important;
+}
+
+.css-f3jnds-MuiDataGrid-columnHeaders{
+    background-color: white !important;
+}
+
+.MuiDataGrid-columnSeparator--resizable{
+    background-color: white !important;
+}
+
+.MuiDataGrid-cell--textLeft{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.MuiDataGrid-columnHeaderTitleContainer{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.hello{
+    background-color: red !important;
+}
+
+.MuiDataGrid-cell{
+    border:0.5px solid rgb(184, 179, 179) !important;
+    padding:0 !important;
+}
+
+.action-div{
+    width: 50%;
+    height: 100%;
+    border:0.5px solid rgb(184, 179, 179) !important;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
